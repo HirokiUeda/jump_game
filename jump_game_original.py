@@ -1,3 +1,4 @@
+<pyxel-run script="
 import pyxel
 
 class App:
@@ -145,3 +146,5 @@ class App:
 
 
 App()
+"
+></pyxel-run>
